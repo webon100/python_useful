@@ -107,7 +107,7 @@
     &nbsp;is a in-depth book for experienced progammers. Do note that it is about Python 2 and is a bit dated.
    </li>
    <li style="box-sizing: border-box;">
-    <a href="http://www.diveintopython3.net/" style="box-sizing: border-box; color: rgb(64, 120, 192); text-decoration: none; background-color: transparent;">
+    <a href="http://www.diveintopython3.net/" style="box-sizing: border-box; color: rgb(64, 120, 192); text-decoration: none; background-color: transparent;" target="_blank">
      Dive Into Python 3
     </a>
     &nbsp;is a brilliant book for anyone who wants to understand Python 3 and its difference from Python 2.
